@@ -84,8 +84,8 @@ Agradecimentos especiais aos seguintes colaboradores:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="Iago de Oliveira">
-        <img src="https://avatars.githubusercontent.com/u/188860173?v=4" width="100px;" alt="Foto do Iago de Oliveira no GitHub" /><br>
+      <a href="#" title="William Silva">
+        <img src="https://avatars.githubusercontent.com/u/161375086?v=4" width="100px;" alt="Foto do William Silva no GitHub" /><br>
         <sub>
           <a href="https://github.com/Iagoolo">Iago de Oliveira</a>
         </sub>
