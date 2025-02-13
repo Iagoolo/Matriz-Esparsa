@@ -84,10 +84,10 @@ Agradecimentos especiais aos seguintes colaboradores:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="William Silva">
-        <img src="https://avatars.githubusercontent.com/u/161375086?v=4" width="100px;" alt="Foto do William Silva no GitHub" /><br>
+      <a href="#" title="Willian Silva">
+        <img src="https://avatars.githubusercontent.com/u/161375086?v=4" width="100px;" alt="Foto do Willian Silva no GitHub" /><br>
         <sub>
-          <a href="https://github.com/WillianSilva51">William Silva</a>
+          <a href="https://github.com/WillianSilva51">Willian Silva</a>
         </sub>
       </a></td>
     </td>
